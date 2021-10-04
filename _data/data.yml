@@ -7,17 +7,17 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Dr. Neila BEN LAKHAL
+    tagline: Assistant Professor
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: neila.benlakhal@gmail.com
+    phone: +216 21 444 660
+    website: neilabl.github.io #do not add http://
+    linkedin: neilabenlakhal
+    xing: 
+    github: neilabl
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -28,14 +28,17 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: Arabic
         level: Native
 
       - idiom: French
-        level: Professional
+        level: Native
 
-      - idiom: Spanish
+      - idiom: English
         level: Professional
+        
+      - idiom: Japanese
+        level: Conversational
 
     interests:
       - item: Climbing
