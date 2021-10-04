@@ -74,21 +74,35 @@ education:
       time: (09.1996 ~ 06.2000)
       
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Assistant professor,  
+      time: 09.2009 - Present
+      company: The Depts. of Computer Engineering, National School of Engineering of Carthage (ENICARTHAGE). TUNISIA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        - Teaching and examining undergraduate and Master level students.
+        - Facilitating computer lab and designing appropriate and specialized lesson plans.
+        - Developing and actively contributing to the review of courses in accordance with department strategies.
+        - Contributing to the monitoring and enhancement of quality in teaching within the department.
+        - Acting as personal adviser to newly recruited lecturers.
+        - Supervising part-time lecturers, including organizing and delegating work, providing training and guidance.
+        - Actively contributing to departmental teaching administration.
+        - Actively contributing to the intellectual life of the department by attending and participating in departmental meetings.
+        - Participating in departmental hiring searches and making shortlisting recommendations for new members of academic staff.
+        - Resolving issues concerning program development, student examinations etc.
+        - Challenging and motivating students through in-depth lectures discussions.
+        - Creating material of courses websites to provide students with updated resources. 
+        -Given lectures
+            - (2009-2010) (2010-2011) Web development, SOA and Web services.
+            - (2011-2012) Web development, Web applications programming.
+            - (2012-2013) | (2013-2014) Web technologies, Web information systems, Web Apps, advanced SOA. 
+            - (2014-2015) | (2015-2016) Web programming, advanced SOA.
+            - (2016-2017) Web Programming, SOA and Web services.
+            - (2017-2018) Advanced SOA and Web services, Microservices architecture (MSA), Advanced Web programming.
+            - (2018-2019) Advanced SOC (service-oriented computing), MSA, REST-based service, Web technologies.
+            - (2010-2020) Sabbatical leave.
+            - (2020-2021) Advanced SOC, Microservices architecture, REST-based service, Web technologies.
+            - (2021-2022) Advanced SOC, Microservices architecture, REST-based service, Web technologies.
+
+
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
