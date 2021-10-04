@@ -12,73 +12,70 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: neila.benlakhal@gmail.com neila.benlakhal@enicarthage.rnu.tn
+    phone: +216 21 444 660 - +974 5566 4714
+    website: neilabl.github.io #do not add http://
+    linkedin: neilabenlakhal
+    xing: 
+    github: neilabenlakhal
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@neilalakhal'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: Arabic
         level: Native
 
       - idiom: French
+        level: Native
+
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
-
+      - idiom: Japanese
+        level: Conversational
+        
     interests:
-      - item: Climbing
+      - item: Traveling
         link:
 
-      - item: Snowboarding
+      - item: Hiking
         link:
 
-      - item: Cooking
+      - item: Reading anatomy books
         link:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    summary: Self-motivated proactive assistant professor, with excellent teaching and university 
+    management track records, having more than 10 years of higher education experience. Very caring with
+    strong communication skills, able to easily build trusting relationships with students, colleagues and 
+    university staff members. Consistently striving to motivate others and inspire them to pursue academic 
+    and personal excellence, looking for new academic opportunities.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Ph.D. in Computer Science
+      university: Tokyo Institute of Technology, JAPAN
+      time: (04.2004 ~ 03.2007)
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Dissertation: A framework for modelling executing and analysing dependable transactional Web services compositions.
+        - Keywords: Web services · Service oriented computing · Data engineering · Dependability · Transaction model.
+        - Financial support: The Japanese government
+
+    - degree: M.Eng. in Computer Science
+      university: Tokyo Institute of Technology, JAPAN
+      time: (04.2002 ~ 03.2004)
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+         M.E. in Computer Science 
+        Master Thesis:  Research on failure handling in distributed workflow management systems for Web services context. 
+    - degree: bachelor’s degree (hons) in Computer Science
+      university: ISG Tunis, TUNISIA
+      time: (09.1996 ~ 06.2000)
+      
 experiences:
     - role: Lead Developer
       time: 2015 - Present
