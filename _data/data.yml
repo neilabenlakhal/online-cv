@@ -7,13 +7,13 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Neila BEN LAKHAL
-    tagline: Assistant Professor
+    name: Dr. Neila Ben Lakhal
+    tagline: Assistant Professor in Computer Science
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: neila.benlakhal@gmail.com neila.benlakhal@enicarthage.rnu.tn
-    phone: +216 21 444 660
+    phone: +216 21 444 660 +974 5566 4714
     website: neilabl.github.io #do not add http://
     linkedin: neilabenlakhal
     xing: 
@@ -56,7 +56,7 @@ career-profile:
 
 education:
     - degree: Ph.D. in Computer Science
-      university: Tokyo Institute of Technology, JAPAN
+      university: <a href="https://www.titech.ac.jp/english" > Tokyo Institute of Technology, JAPAN</a>
       time: 04.2004 ~ 03.2007
       details: |
         Dissertation: A framework for modelling executing and analysing dependable transactional Web services compositions.
@@ -69,7 +69,7 @@ education:
       details: |
         Master Thesis:  Research on failure handling in distributed workflow management systems for Web services context. 
     
-    - degree: bachelor’s degree (hons) in Computer Science
+    - degree: bachelor degree (hons) in Computer Science
       university: ISG Tunis, TUNISIA
       time: 09.1996 ~ 06.2000
       
@@ -90,7 +90,7 @@ experiences:
         - Resolving issues concerning program development, student examinations etc.
         - Challenging and motivating students through in-depth lectures discussions.
         - Creating material of courses websites to provide students with updated resources. 
-        -Given lectures
+        - Given lectures
             - (2009-2010) Web development, SOA and Web services.
             - (2010-2011) Web development, SOA and Web services.
             - (2011-2012) Web development, Web applications programming.
