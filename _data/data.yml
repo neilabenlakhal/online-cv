@@ -13,7 +13,8 @@ sidebar:
 
     # Sidebar links
     email: neila.benlakhal@gmail.com neila.benlakhal@enicarthage.rnu.tn
-    phone: +216 21 444 660 +974 5566 4714
+    phone: +216 21 444 660 
+           +974 5566 4714
     website: neilabl.github.io #do not add http://
     linkedin: neilabenlakhal
     xing: 
@@ -25,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: CVDR.NeilaBenLakhal2021-10.pdf
 
     languages:
       - idiom: Arabic
@@ -69,7 +70,7 @@ education:
       details: |
         Master Thesis:  Research on failure handling in distributed workflow management systems for Web services context. 
     
-    - degree: bachelor degree (hons) in Computer Science
+    - degree: Master degree (hons) in Computer Science
       university: ISG Tunis, TUNISIA
       time: 09.1996 ~ 06.2000
       
