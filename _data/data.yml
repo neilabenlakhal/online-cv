@@ -13,8 +13,9 @@ sidebar:
 
     # Sidebar links
     email: neila.benlakhal@gmail.com neila.benlakhal@enicarthage.rnu.tn
-    phone: +216 21 444 660 
-           +974 5566 4714
+    phone: 
+      - +216 21 444 660 
+      - +974 5566 4714
     website: neilabl.github.io #do not add http://
     linkedin: neilabenlakhal
     xing: 
@@ -65,7 +66,7 @@ education:
         - Financial support: The Japanese government
 
     - degree: M.Eng. in Computer Science
-      university: Tokyo Institute of Technology, JAPAN
+      university: <a href="https://www.titech.ac.jp/english" > Tokyo Institute of Technology, JAPAN</a>
       time: 04.2002 ~ 03.2004
       details: |
         Master Thesis:  Research on failure handling in distributed workflow management systems for Web services context. 
