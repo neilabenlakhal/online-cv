@@ -3,8 +3,8 @@
 #
 
 sidebar: 
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Neila BEN LAKHAL
@@ -57,7 +57,7 @@ career-profile:
 education:
     - degree: Ph.D. in Computer Science
       university: Tokyo Institute of Technology, JAPAN
-      time: (04.2004 ~ 03.2007)
+      time: 04.2004 ~ 03.2007
       details: |
         Dissertation: A framework for modelling executing and analysing dependable transactional Web services compositions.
         - Keywords: Web services · Service oriented computing · Data engineering · Dependability · Transaction model.
@@ -65,18 +65,18 @@ education:
 
     - degree: M.Eng. in Computer Science
       university: Tokyo Institute of Technology, JAPAN
-      time: (04.2002 ~ 03.2004)
+      time: 04.2002 ~ 03.2004
       details: |
         Master Thesis:  Research on failure handling in distributed workflow management systems for Web services context. 
     
     - degree: bachelor’s degree (hons) in Computer Science
       university: ISG Tunis, TUNISIA
-      time: (09.1996 ~ 06.2000)
+      time: 09.1996 ~ 06.2000
       
 experiences:
     - role: Assistant professor,  
-      time: 09.2009 - Present
-      company: The Depts. of Computer Engineering, National School of Engineering of Carthage (ENICARTHAGE). TUNISIA
+      time: 09.2009 ~ Present
+      company: Computer Engineering Department, National School of Engineering of Carthage (ENICARTHAGE). TUNISIA
       details: |
         - Teaching and examining undergraduate and Master level students.
         - Facilitating computer lab and designing appropriate and specialized lesson plans.
@@ -106,8 +106,8 @@ experiences:
             - (2021-2022) Advanced SOC, Microservices architecture, REST-based service, Web technologies.
 
     - role: Dean of Graduate studies
-      time: (09.2014-09.2016)
-      company: Depts. of Science and Technology-Time Higher School, TUNISIA
+      time: 09.2014 ~ 09.2016
+      company: Science and Technology Department - Time Higher School, TUNISIA
       Managed faculty staff: 120 teaching assistant and visiting professors
       details: |
         - Faculty member selection and recruitment process.
@@ -124,32 +124,32 @@ experiences:
         - Promote and represent the faculty and its academic areas nationally and internationally.
         - Confer with educators to identify current classroom concerns and diversify instructional strategies.
     - role: Head of the Department of computer engineering  
-      time: 09.2011-08.2014
-      company: At the Depts. of Science and Technology-Time Higher School, TUNISIA
+      time: 09.2011 ~ 08.2014
+      company: Science and Technology Department -Time Higher School, TUNISIA
       details: |
 
     - role: Adjunct Professor  
-      time: 09.2011-06.2016
-      company: At the Depts. of Science and Technology-Time Higher School, TUNISIA
+      time: 09.2011 ~ 06.2016
+      company: Science and Technology Department -Time Higher School, TUNISIA
       GIVEN LECTURE: |
-        - (2011-2012) (2012-2013) Web development, business process modelling, workflow systems and SOA, Web portals. 
-        - (2013-2014) Web technologies, business process modelling, workflow systems and SOA.
+        - (2011-2012) Web development, business process modelling, workflow systems and SOA, Web portals. 
+        - (2012-2013) Web development, business process modelling, workflow systems and SOA, Web portals.  - (2013-2014) Web technologies, business process modelling, workflow systems and SOA.
         - (2014-2015) Web technologies, business process modelling, SOA.
         - (2015-2016) Web programming, SOA.
  
     - role: Adjunct Lecturer  
-      time: (Jan 2009-Aug 2009)
+      time: 01.2009 ~ 08.2009
       company: At The Faculty of Political Science, TUNISIA
       GIVEN LECTURE: |
         - (2009) Computer Applications.
 
     - role: Research Fellow  
-      time: (Apr 2004 - Mar 2007)
+      time: 04.2004 ~ 03.2007
       company: Japan Science and Technology Agency, JAPAN 
       details: 
    
     - role: Student Mentor  
-      time: (Apr 2002 - Mar 2007)
+      time: 04.2002 ~ 03.2007
       company: Tokyo Institute of Technology, Data Engineering & Parallel Processing Lab, JAPAN 
       details: |   
 # projects:
@@ -208,19 +208,19 @@ skills:
       - name:  software architectures (SOA, MSA)
         level: 98%
 
-      - name: REST & SOAP Web services, XML, WS-* standards
+      - name: REST & SOAP Web services, WS-* standards
         level: 98%
 
-      - name: Microservices, Containerized Apps and Docker
+      - name: Microservices, Containerized MS,  Docker
         level: 98%
 
-      - name: PhP, HTML, CSS, JavaScript, JAVA, AJAX
+      - name: PhP, HTML, CSS, JavaScript, JAVA, AJAX, XML
         level: 99%
 
       - name: Dependable computing and distributed computing
         level: 85%
 
-      - name: software modelling methods UML, DevOps, Agile, unified process
+      - name: Software modelling, UML, DevOps, Agile, unified process
         level: 60%
 
 footer: >
