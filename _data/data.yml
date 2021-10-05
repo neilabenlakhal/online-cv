@@ -123,8 +123,6 @@ experiences:
         - Oversee the possibilities of the implementation of Faculty’s international activities.
         - Promote and represent the faculty and its academic areas nationally and internationally.
         - Confer with educators to identify current classroom concerns and diversify instructional strategies.
-
-  
     - role: Head of the Department of computer engineering  
       time: 09.2011-08.2014
       company: At the Depts. of Science and Technology-Time Higher School, TUNISIA
@@ -148,17 +146,12 @@ experiences:
     - role: Research Fellow  
       time: (Apr 2004 - Mar 2007)
       company: Japan Science and Technology Agency, JAPAN 
-      details: |
-
-   - role: Student Mentor  
+      details: 
+   
+    - role: Student Mentor  
       time: (Apr 2002 - Mar 2007)
       company: Tokyo Institute of Technology, Data Engineering & Parallel Processing Lab, JAPAN 
       details: |   
-
-  
-
-
-
 # projects:
 #     title: Projects
 #     intro: >
@@ -227,7 +220,7 @@ skills:
       - name: Dependable computing and distributed computing
         level: 85%
 
-      - name: software modelling methods: UML, DevOps, Agile, unified process
+      - name: software modelling methods UML, DevOps, Agile, unified process
         level: 60%
 
 footer: >
